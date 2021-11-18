@@ -38,10 +38,6 @@ main {
 
 .square {
     float: left;
-    /* width: calc(100% / 10);  */
-    /* sarà poi data dinamicamente */
-    /* height: calc(100% / 10); */
-     /* sarà poi data dinamicamente */
     border: 1px solid black;
     cursor: pointer;
     display: flex;
